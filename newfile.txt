@@ -1,0 +1,2 @@
+This is my new file which i have created to push to github.
+This is the 2nd line entered by going back from staging to local workspace.
